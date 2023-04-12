@@ -1,0 +1,8 @@
+C:\Users\camyl\source\repos\SistemaVendasProdutos\SistemaVendasProdutos\bin\Debug\SistemaVendasProdutos.exe.config
+C:\Users\camyl\source\repos\SistemaVendasProdutos\SistemaVendasProdutos\bin\Debug\SistemaVendasProdutos.exe
+C:\Users\camyl\source\repos\SistemaVendasProdutos\SistemaVendasProdutos\bin\Debug\SistemaVendasProdutos.pdb
+C:\Users\camyl\source\repos\SistemaVendasProdutos\SistemaVendasProdutos\obj\Debug\SistemaVendasProdutos.csproj.AssemblyReference.cache
+C:\Users\camyl\source\repos\SistemaVendasProdutos\SistemaVendasProdutos\obj\Debug\SistemaVendasProdutos.csproj.SuggestedBindingRedirects.cache
+C:\Users\camyl\source\repos\SistemaVendasProdutos\SistemaVendasProdutos\obj\Debug\SistemaVendasProdutos.csproj.CoreCompileInputs.cache
+C:\Users\camyl\source\repos\SistemaVendasProdutos\SistemaVendasProdutos\obj\Debug\SistemaVendasProdutos.exe
+C:\Users\camyl\source\repos\SistemaVendasProdutos\SistemaVendasProdutos\obj\Debug\SistemaVendasProdutos.pdb

@@ -1,0 +1,8 @@
+C:\Users\camyl\source\repos\Empresa\Empresa\bin\Debug\Empresa.exe.config
+C:\Users\camyl\source\repos\Empresa\Empresa\bin\Debug\Empresa.exe
+C:\Users\camyl\source\repos\Empresa\Empresa\bin\Debug\Empresa.pdb
+C:\Users\camyl\source\repos\Empresa\Empresa\obj\Debug\Empresa.csproj.AssemblyReference.cache
+C:\Users\camyl\source\repos\Empresa\Empresa\obj\Debug\Empresa.csproj.SuggestedBindingRedirects.cache
+C:\Users\camyl\source\repos\Empresa\Empresa\obj\Debug\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\camyl\source\repos\Empresa\Empresa\obj\Debug\Empresa.exe
+C:\Users\camyl\source\repos\Empresa\Empresa\obj\Debug\Empresa.pdb

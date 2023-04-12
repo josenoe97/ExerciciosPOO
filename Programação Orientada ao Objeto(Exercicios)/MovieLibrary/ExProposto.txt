@@ -1,0 +1,18 @@
+Crie uma classe Movie com as seguintes propriedades:
+
+Título (string)
+Ano de lançamento (int)
+Diretor (string)
+Gênero (enum com as opções: Ação, Comédia, Drama, Terror, Outro)
+Classificação (enum com as opções: Livre, +10, +12, +14, +16, +18)
+É em preto e branco (bool)
+Crie uma classe MovieLibrary que possua uma lista de filmes. Adicione os seguintes métodos:
+
+Adicionar um filme à biblioteca
+Remover um filme da biblioteca, dado o título
+Retornar a lista de todos os filmes
+Retornar a lista de filmes por gênero
+Retornar a lista de filmes por classificação
+Retornar a lista de filmes dirigidos por um determinado diretor
+Retornar a lista de filmes lançados em uma determinada década (por exemplo, década de 1950, década de 1960, etc.)
+Teste sua aplicação adicionando alguns filmes à biblioteca e executando os métodos acima.

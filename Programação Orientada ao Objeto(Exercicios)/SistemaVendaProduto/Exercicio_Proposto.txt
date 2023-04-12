@@ -1,0 +1,17 @@
+Exercício: Sistema de Venda de Produtos
+
+Crie uma classe Produto com as seguintes propriedades:
+
+Nome (string)
+Preço (decimal)
+Quantidade em Estoque (int)
+Crie uma classe Venda com as seguintes propriedades:
+
+Produto (classe Produto)
+Quantidade (int)
+Data (DateTime)
+Crie uma classe VendaService com os seguintes métodos:
+
+RealizarVenda (Venda venda): Decrementa a quantidade em estoque do produto vendido e retorna true em caso de sucesso ou false em caso de estoque insuficiente.
+MostrarVendas(): Retorna uma lista com todas as vendas realizadas.
+Crie um aplicativo de console que utilize a classe VendaService para realizar vendas e exibir todas as vendas realizadas.

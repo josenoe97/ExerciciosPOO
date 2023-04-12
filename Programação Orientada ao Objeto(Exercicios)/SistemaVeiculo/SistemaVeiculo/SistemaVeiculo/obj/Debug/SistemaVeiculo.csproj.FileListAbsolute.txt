@@ -1,0 +1,8 @@
+C:\Users\camyl\source\repos\SistemaVeiculo\SistemaVeiculo\bin\Debug\SistemaVeiculo.exe.config
+C:\Users\camyl\source\repos\SistemaVeiculo\SistemaVeiculo\bin\Debug\SistemaVeiculo.exe
+C:\Users\camyl\source\repos\SistemaVeiculo\SistemaVeiculo\bin\Debug\SistemaVeiculo.pdb
+C:\Users\camyl\source\repos\SistemaVeiculo\SistemaVeiculo\obj\Debug\SistemaVeiculo.csproj.AssemblyReference.cache
+C:\Users\camyl\source\repos\SistemaVeiculo\SistemaVeiculo\obj\Debug\SistemaVeiculo.csproj.SuggestedBindingRedirects.cache
+C:\Users\camyl\source\repos\SistemaVeiculo\SistemaVeiculo\obj\Debug\SistemaVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\camyl\source\repos\SistemaVeiculo\SistemaVeiculo\obj\Debug\SistemaVeiculo.exe
+C:\Users\camyl\source\repos\SistemaVeiculo\SistemaVeiculo\obj\Debug\SistemaVeiculo.pdb

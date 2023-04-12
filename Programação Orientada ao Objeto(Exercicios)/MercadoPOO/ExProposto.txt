@@ -1,0 +1,24 @@
+Aqui está um exercício de orientação a objetos em C#:
+
+Crie uma classe chamada "Produto" com as seguintes propriedades:
+Nome (string)
+Preço (double)
+Quantidade (int)
+Adicione um método na classe "Produto" que permita aumentar a quantidade de produtos em estoque.
+
+Crie uma classe chamada "Estoque" com as seguintes propriedades:
+
+Lista de produtos (List<Produto>)
+Adicione um método na classe "Estoque" que permita adicionar um produto ao estoque.
+
+Adicione um método na classe "Estoque" que permita remover um produto do estoque, dado o nome do produto.
+
+Adicione um método na classe "Estoque" que permita mostrar todos os produtos em estoque, seus preços e quantidades.
+
+Crie um programa de teste que crie alguns produtos e os adicione ao estoque, em seguida, remova um produto do estoque e exiba o estoque completo.
+
+Boa sorte e divirta-se!
+
+
+
+

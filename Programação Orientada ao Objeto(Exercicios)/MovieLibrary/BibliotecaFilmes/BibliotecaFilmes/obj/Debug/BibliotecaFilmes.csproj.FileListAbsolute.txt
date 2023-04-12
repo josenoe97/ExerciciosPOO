@@ -1,0 +1,8 @@
+C:\Users\camyl\source\repos\BibliotecaFilmes\BibliotecaFilmes\bin\Debug\BibliotecaFilmes.exe.config
+C:\Users\camyl\source\repos\BibliotecaFilmes\BibliotecaFilmes\bin\Debug\BibliotecaFilmes.exe
+C:\Users\camyl\source\repos\BibliotecaFilmes\BibliotecaFilmes\bin\Debug\BibliotecaFilmes.pdb
+C:\Users\camyl\source\repos\BibliotecaFilmes\BibliotecaFilmes\obj\Debug\BibliotecaFilmes.csproj.AssemblyReference.cache
+C:\Users\camyl\source\repos\BibliotecaFilmes\BibliotecaFilmes\obj\Debug\BibliotecaFilmes.csproj.SuggestedBindingRedirects.cache
+C:\Users\camyl\source\repos\BibliotecaFilmes\BibliotecaFilmes\obj\Debug\BibliotecaFilmes.csproj.CoreCompileInputs.cache
+C:\Users\camyl\source\repos\BibliotecaFilmes\BibliotecaFilmes\obj\Debug\BibliotecaFilmes.exe
+C:\Users\camyl\source\repos\BibliotecaFilmes\BibliotecaFilmes\obj\Debug\BibliotecaFilmes.pdb

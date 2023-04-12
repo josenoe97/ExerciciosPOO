@@ -1,0 +1,8 @@
+C:\Users\camyl\source\repos\BibliotecaPOOAvançado\BibliotecaPOOAvançado\bin\Debug\BibliotecaPOOAvançado.exe.config
+C:\Users\camyl\source\repos\BibliotecaPOOAvançado\BibliotecaPOOAvançado\bin\Debug\BibliotecaPOOAvançado.exe
+C:\Users\camyl\source\repos\BibliotecaPOOAvançado\BibliotecaPOOAvançado\bin\Debug\BibliotecaPOOAvançado.pdb
+C:\Users\camyl\source\repos\BibliotecaPOOAvançado\BibliotecaPOOAvançado\obj\Debug\BibliotecaPOOAvançado.csproj.AssemblyReference.cache
+C:\Users\camyl\source\repos\BibliotecaPOOAvançado\BibliotecaPOOAvançado\obj\Debug\BibliotecaPOOAvançado.csproj.SuggestedBindingRedirects.cache
+C:\Users\camyl\source\repos\BibliotecaPOOAvançado\BibliotecaPOOAvançado\obj\Debug\BibliotecaPOOAvançado.csproj.CoreCompileInputs.cache
+C:\Users\camyl\source\repos\BibliotecaPOOAvançado\BibliotecaPOOAvançado\obj\Debug\BibliotecaPOOAvançado.exe
+C:\Users\camyl\source\repos\BibliotecaPOOAvançado\BibliotecaPOOAvançado\obj\Debug\BibliotecaPOOAvançado.pdb

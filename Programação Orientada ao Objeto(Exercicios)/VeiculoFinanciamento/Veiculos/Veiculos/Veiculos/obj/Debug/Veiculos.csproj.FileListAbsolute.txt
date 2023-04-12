@@ -1,0 +1,8 @@
+C:\Users\camyl\source\repos\Veiculos\Veiculos\bin\Debug\Veiculos.exe.config
+C:\Users\camyl\source\repos\Veiculos\Veiculos\bin\Debug\Veiculos.exe
+C:\Users\camyl\source\repos\Veiculos\Veiculos\bin\Debug\Veiculos.pdb
+C:\Users\camyl\source\repos\Veiculos\Veiculos\obj\Debug\Veiculos.csproj.AssemblyReference.cache
+C:\Users\camyl\source\repos\Veiculos\Veiculos\obj\Debug\Veiculos.csproj.SuggestedBindingRedirects.cache
+C:\Users\camyl\source\repos\Veiculos\Veiculos\obj\Debug\Veiculos.csproj.CoreCompileInputs.cache
+C:\Users\camyl\source\repos\Veiculos\Veiculos\obj\Debug\Veiculos.exe
+C:\Users\camyl\source\repos\Veiculos\Veiculos\obj\Debug\Veiculos.pdb

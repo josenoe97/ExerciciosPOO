@@ -1,0 +1,19 @@
+Crie uma aplicação de gerenciamento de biblioteca que permite aos usuários registrar livros, criar empréstimos e devoluções. Aqui estão as classes que você precisará criar:
+
+Book: Representa um livro e deve conter informações como título, autor, ISBN, etc.
+
+Library: Representa a biblioteca e deve ser capaz de armazenar livros, bem como permitir o empréstimo e a devolução de livros.
+
+Loan: Representa um empréstimo e deve conter informações sobre o livro emprestado, o usuário que o pegou emprestado e a data de devolução.
+
+User: Representa um usuário da biblioteca e deve conter informações como nome, endereço e número de telefone.
+
+BibliotecaApp: A classe principal da aplicação que permite aos usuários interagir com a biblioteca através de uma interface de console.
+
+Você deve criar essas classes e implementar seus métodos de acordo com as seguintes especificações:
+
+A classe Book deve ter um método que permita exibir todas as informações sobre o livro.
+A classe Library deve ter métodos para adicionar e remover livros, bem como para registrar empréstimos e devoluções de livros.
+A classe Loan deve ter um método que permita verificar se um livro está atrasado (ou seja, se a data de devolução já passou).
+A classe User deve ter um método que permita exibir todas as informações sobre o usuário.
+A classe BibliotecaApp deve permitir que os usuários adicionem livros à biblioteca, emprestem livros, devolvam livros e exibam informações sobre livros e usuários.

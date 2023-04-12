@@ -1,0 +1,8 @@
+C:\Users\camyl\source\repos\CursoPOO\CursoPOO\bin\Debug\CursoPOO.exe.config
+C:\Users\camyl\source\repos\CursoPOO\CursoPOO\bin\Debug\CursoPOO.exe
+C:\Users\camyl\source\repos\CursoPOO\CursoPOO\bin\Debug\CursoPOO.pdb
+C:\Users\camyl\source\repos\CursoPOO\CursoPOO\obj\Debug\CursoPOO.csproj.AssemblyReference.cache
+C:\Users\camyl\source\repos\CursoPOO\CursoPOO\obj\Debug\CursoPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\camyl\source\repos\CursoPOO\CursoPOO\obj\Debug\CursoPOO.csproj.CoreCompileInputs.cache
+C:\Users\camyl\source\repos\CursoPOO\CursoPOO\obj\Debug\CursoPOO.exe
+C:\Users\camyl\source\repos\CursoPOO\CursoPOO\obj\Debug\CursoPOO.pdb

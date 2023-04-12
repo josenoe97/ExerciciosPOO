@@ -1,0 +1,23 @@
+Crie uma classe Veiculo com as propriedades Marca, Modelo, Ano e Preco.
+
+Adicione um método na classe Veiculo chamado ExibirInformacoes que exiba as informações do veículo.
+
+Crie duas subclasses da classe Veiculo: Carro e Moto.
+
+Adicione uma propriedade na classe Carro chamada Portas e na classe Moto chamada Cilindradas.
+
+Adicione um método na classe Carro chamado ExibirPortas que exiba a quantidade de portas do carro. Adicione um método na classe Moto chamado ExibirCilindradas que exiba a quantidade de cilindradas da moto.
+
+Crie um programa que instancie objetos das classes Carro e Moto e faça chamadas aos seus métodos.
+
+Adicione uma classe abstrata Pagamento com o método abstrato CalcularJuros.
+
+Adicione uma classe concreta Credito que herde de Pagamento e implemente o método CalcularJuros.
+
+Adicione uma classe concreta Debito que herde de Pagamento e implemente o método CalcularJuros.
+
+Adicione uma propriedade TipoPagamento na classe Veiculo e permita que o usuário selecione o tipo de pagamento (crédito ou débito) ao criar um veículo.
+
+Adicione uma propriedade Valor na classe Veiculo e calcule o valor total a ser pago com juros de acordo com o tipo de pagamento selecionado.
+
+Exiba as informações dos veículos com o valor total a ser pago.

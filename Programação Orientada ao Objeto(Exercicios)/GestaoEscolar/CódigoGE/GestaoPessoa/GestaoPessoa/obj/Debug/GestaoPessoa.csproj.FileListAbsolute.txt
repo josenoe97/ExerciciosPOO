@@ -1,0 +1,8 @@
+C:\Users\camyl\source\repos\GestaoPessoa\GestaoPessoa\bin\Debug\GestaoPessoa.exe.config
+C:\Users\camyl\source\repos\GestaoPessoa\GestaoPessoa\bin\Debug\GestaoPessoa.exe
+C:\Users\camyl\source\repos\GestaoPessoa\GestaoPessoa\bin\Debug\GestaoPessoa.pdb
+C:\Users\camyl\source\repos\GestaoPessoa\GestaoPessoa\obj\Debug\GestaoPessoa.csproj.AssemblyReference.cache
+C:\Users\camyl\source\repos\GestaoPessoa\GestaoPessoa\obj\Debug\GestaoPessoa.csproj.SuggestedBindingRedirects.cache
+C:\Users\camyl\source\repos\GestaoPessoa\GestaoPessoa\obj\Debug\GestaoPessoa.csproj.CoreCompileInputs.cache
+C:\Users\camyl\source\repos\GestaoPessoa\GestaoPessoa\obj\Debug\GestaoPessoa.exe
+C:\Users\camyl\source\repos\GestaoPessoa\GestaoPessoa\obj\Debug\GestaoPessoa.pdb

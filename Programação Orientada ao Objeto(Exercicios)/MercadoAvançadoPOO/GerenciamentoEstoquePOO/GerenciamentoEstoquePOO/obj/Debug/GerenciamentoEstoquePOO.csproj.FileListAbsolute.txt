@@ -1,0 +1,8 @@
+C:\Users\camyl\source\repos\GerenciamentoEstoquePOO\GerenciamentoEstoquePOO\bin\Debug\GerenciamentoEstoquePOO.exe.config
+C:\Users\camyl\source\repos\GerenciamentoEstoquePOO\GerenciamentoEstoquePOO\bin\Debug\GerenciamentoEstoquePOO.exe
+C:\Users\camyl\source\repos\GerenciamentoEstoquePOO\GerenciamentoEstoquePOO\bin\Debug\GerenciamentoEstoquePOO.pdb
+C:\Users\camyl\source\repos\GerenciamentoEstoquePOO\GerenciamentoEstoquePOO\obj\Debug\GerenciamentoEstoquePOO.csproj.AssemblyReference.cache
+C:\Users\camyl\source\repos\GerenciamentoEstoquePOO\GerenciamentoEstoquePOO\obj\Debug\GerenciamentoEstoquePOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\camyl\source\repos\GerenciamentoEstoquePOO\GerenciamentoEstoquePOO\obj\Debug\GerenciamentoEstoquePOO.csproj.CoreCompileInputs.cache
+C:\Users\camyl\source\repos\GerenciamentoEstoquePOO\GerenciamentoEstoquePOO\obj\Debug\GerenciamentoEstoquePOO.exe
+C:\Users\camyl\source\repos\GerenciamentoEstoquePOO\GerenciamentoEstoquePOO\obj\Debug\GerenciamentoEstoquePOO.pdb

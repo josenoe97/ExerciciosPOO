@@ -1,0 +1,8 @@
+C:\Users\camyl\source\repos\CadastroDeCarros\CadastroDeCarros\bin\Debug\CadastroDeCarros.exe.config
+C:\Users\camyl\source\repos\CadastroDeCarros\CadastroDeCarros\bin\Debug\CadastroDeCarros.exe
+C:\Users\camyl\source\repos\CadastroDeCarros\CadastroDeCarros\bin\Debug\CadastroDeCarros.pdb
+C:\Users\camyl\source\repos\CadastroDeCarros\CadastroDeCarros\obj\Debug\CadastroDeCarros.csproj.AssemblyReference.cache
+C:\Users\camyl\source\repos\CadastroDeCarros\CadastroDeCarros\obj\Debug\CadastroDeCarros.csproj.SuggestedBindingRedirects.cache
+C:\Users\camyl\source\repos\CadastroDeCarros\CadastroDeCarros\obj\Debug\CadastroDeCarros.csproj.CoreCompileInputs.cache
+C:\Users\camyl\source\repos\CadastroDeCarros\CadastroDeCarros\obj\Debug\CadastroDeCarros.exe
+C:\Users\camyl\source\repos\CadastroDeCarros\CadastroDeCarros\obj\Debug\CadastroDeCarros.pdb

@@ -1,0 +1,8 @@
+C:\Users\camyl\source\repos\MercadinhoPOO\MercadinhoPOO\bin\Debug\MercadinhoPOO.exe.config
+C:\Users\camyl\source\repos\MercadinhoPOO\MercadinhoPOO\bin\Debug\MercadinhoPOO.exe
+C:\Users\camyl\source\repos\MercadinhoPOO\MercadinhoPOO\bin\Debug\MercadinhoPOO.pdb
+C:\Users\camyl\source\repos\MercadinhoPOO\MercadinhoPOO\obj\Debug\MercadinhoPOO.csproj.AssemblyReference.cache
+C:\Users\camyl\source\repos\MercadinhoPOO\MercadinhoPOO\obj\Debug\MercadinhoPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\camyl\source\repos\MercadinhoPOO\MercadinhoPOO\obj\Debug\MercadinhoPOO.csproj.CoreCompileInputs.cache
+C:\Users\camyl\source\repos\MercadinhoPOO\MercadinhoPOO\obj\Debug\MercadinhoPOO.exe
+C:\Users\camyl\source\repos\MercadinhoPOO\MercadinhoPOO\obj\Debug\MercadinhoPOO.pdb

@@ -1,0 +1,8 @@
+C:\Users\camyl\source\repos\Animais\Animais\bin\Debug\Animais.exe.config
+C:\Users\camyl\source\repos\Animais\Animais\bin\Debug\Animais.exe
+C:\Users\camyl\source\repos\Animais\Animais\bin\Debug\Animais.pdb
+C:\Users\camyl\source\repos\Animais\Animais\obj\Debug\Animais.csproj.AssemblyReference.cache
+C:\Users\camyl\source\repos\Animais\Animais\obj\Debug\Animais.csproj.SuggestedBindingRedirects.cache
+C:\Users\camyl\source\repos\Animais\Animais\obj\Debug\Animais.csproj.CoreCompileInputs.cache
+C:\Users\camyl\source\repos\Animais\Animais\obj\Debug\Animais.exe
+C:\Users\camyl\source\repos\Animais\Animais\obj\Debug\Animais.pdb

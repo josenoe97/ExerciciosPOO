@@ -1,0 +1,7 @@
+Crie uma classe Animal com as propriedades nome, idade e peso.
+Adicione um método Comer na classe Animal que exiba uma mensagem "O animal está comendo".
+Crie duas subclasses da classe Animal: Gato e Cachorro.
+Adicione uma propriedade na classe Gato chamada miadosPorDia e na classe Cachorro chamada latidosPorDia.
+Adicione um método na classe Gato chamado Miar que exiba a mensagem "Miando". Adicione um método na classe Cachorro chamado Latir que exiba a mensagem "Latindo".
+Crie um programa que instancie objetos das classes Gato e Cachorro e faça chamadas aos seus métodos.
+Esse é um exemplo de um exercício intermediário de programação orientada a objetos em C# que envolve herança e polimorfismo.

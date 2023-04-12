@@ -1,0 +1,18 @@
+Crie uma classe chamada "Aluno" com as seguintes propriedades:
+Nome (string)
+Sobrenome (string)
+Data de Nascimento (DateTime)
+Matrícula (string)
+Adicione um método na classe "Aluno" que calcule a idade do aluno com base na sua data de nascimento.
+
+Crie uma classe chamada "Curso" com as seguintes propriedades:
+
+Nome do Curso (string)
+Lista de Alunos (List<Aluno>)
+Adicione um método na classe "Curso" que permita adicionar um aluno ao curso.
+
+Adicione um método na classe "Curso" que permita remover um aluno do curso, dado a sua matrícula.
+
+Adicione um método na classe "Curso" que permita mostrar a lista de alunos matriculados, incluindo seus nomes completos e idades.
+
+Crie um programa de teste que crie alguns alunos e os adicione a um curso, em seguida, remova um aluno do curso e exiba a lista de alunos matriculados.

@@ -1,0 +1,18 @@
+Crie uma classe chamada "Carro" com as seguintes propriedades:
+
+Marca (string)
+Modelo (string)
+Ano (int)
+Preço (double)
+Adicione um construtor na classe Carro que inicialize as propriedades com valores específicos.
+
+Adicione um método na classe Carro que retorne a descrição completa do carro (marca, modelo, ano e preço).
+
+Crie uma classe chamada "Concessionária" com a seguinte propriedade:
+
+Lista de carros (List<Carro>)
+Adicione um construtor na classe Concessionária que inicialize a lista de carros com valores específicos.
+
+Adicione um método na classe Concessionária que retorne a descrição completa de todos os carros na lista.
+
+Crie uma classe chamada "Program" com o método Main que instancie uma Concessionária e adicione vários carros à lista. Em seguida, exiba a descrição completa de todos os carros.

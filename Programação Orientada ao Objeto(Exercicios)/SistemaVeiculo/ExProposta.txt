@@ -1,0 +1,28 @@
+qui está um exercício intermediário de programação orientada a objetos em C#:
+
+Crie uma classe chamada "Veículo" com as seguintes propriedades:
+Marca (string)
+Modelo (string)
+Ano (int)
+Cor (string)
+VelocidadeAtual (int)
+VelocidadeMáxima (int)
+Adicione um método na classe Veículo chamado "Acelerar" que aumente a velocidade atual em 10 km/h.
+
+Adicione um método na classe Veículo chamado "Frenar" que diminua a velocidade atual em 10 km/h.
+
+Adicione uma propriedade "Ligado" (bool) à classe Veículo e altere os métodos "Acelerar" e "Frenar" para que eles não alterem a velocidade atual se o veículo não estiver ligado.
+
+Crie uma classe derivada de Veículo chamada "Carro" com as seguintes propriedades adicionais:
+
+Portas (int)
+Câmbio (string, automático ou manual)
+Sobrescreva o método "Acelerar" na classe Carro para incluir a seguinte regra de negócio: se o câmbio for automático, a velocidade atual não pode ultrapassar a velocidade máxima; se o câmbio for manual, a velocidade atual pode ultrapassar a velocidade máxima em 20 km/h.
+
+Crie uma classe derivada de Veículo chamada "Moto" com as seguintes propriedades adicionais:
+
+Rodas (int)
+PartidaEletrica (bool)
+Sobrescreva o método "Frenar" na classe Moto para incluir a seguinte regra de negócio: se a partida elétrica estiver ligada, a velocidade atual não pode ser menor que 0; caso contrário, a velocidade atual pode ser negativa.
+
+Crie uma classe de teste com um método Main e crie algumas instâncias das classes Veículo, Carro e Moto. Teste todas as propriedades e métodos criados

@@ -1,0 +1,7 @@
+Crie uma classe Pessoa com as propriedades nome, idade e salário.
+Adicione um método na classe Pessoa que exiba suas informações (nome, idade, salário).
+Crie duas subclasses da classe Pessoa: Empregado e Gerente.
+Adicione uma propriedade na classe Empregado chamada matrícula e na classe Gerente chamada senha.
+Adicione um método na classe Empregado chamado ExibirMatrícula que exiba a matrícula do empregado. Adicione um método na classe Gerente chamado ExibirSenha que exiba a senha do gerente.
+Crie um programa que instancie objetos das classes Empregado e Gerente e faça chamadas aos seus métodos.
+Esse é um exemplo de um exercício intermediário de programação orientada a objetos em C# que envolve herança e polimorfismo

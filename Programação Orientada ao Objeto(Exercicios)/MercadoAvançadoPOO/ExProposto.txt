@@ -1,0 +1,12 @@
+Aqui está um exercício avançado de Programação Orientada a Objetos usando C#:
+
+Crie um sistema de gerenciamento de estoque de uma loja de departamentos.
+
+Crie uma classe Produto com propriedades como Nome, Preço e QuantidadeEmEstoque.
+Crie uma classe Departamento que possui uma coleção de Produto e propriedades como Nome e Código.
+Crie uma classe Loja que possui uma coleção de Departamento e propriedades como Nome e Endereço.
+Adicione uma funcionalidade à classe Loja que permita que o usuário adicione um produto ao estoque da loja, especificando o departamento e o produto desejado.
+Adicione uma funcionalidade à classe Loja que permita que o usuário remova um produto do estoque da loja, especificando o departamento e o produto desejado.
+Adicione uma funcionalidade à classe Loja que permita que o usuário visualize a lista de todos os produtos em estoque, agrupados por departamento.
+Adicione uma funcionalidade à classe Produto que permita que o usuário aumente ou diminua a quantidade de um produto em estoque.
+Aplique o program.cs
