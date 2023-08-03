@@ -1,0 +1,8 @@
+C:\Users\2022100077\source\repos\CourseMat\CourseMat\bin\Debug\CourseMat.exe.config
+C:\Users\2022100077\source\repos\CourseMat\CourseMat\bin\Debug\CourseMat.exe
+C:\Users\2022100077\source\repos\CourseMat\CourseMat\bin\Debug\CourseMat.pdb
+C:\Users\2022100077\source\repos\CourseMat\CourseMat\obj\Debug\CourseMat.csproj.AssemblyReference.cache
+C:\Users\2022100077\source\repos\CourseMat\CourseMat\obj\Debug\CourseMat.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022100077\source\repos\CourseMat\CourseMat\obj\Debug\CourseMat.csproj.CoreCompileInputs.cache
+C:\Users\2022100077\source\repos\CourseMat\CourseMat\obj\Debug\CourseMat.exe
+C:\Users\2022100077\source\repos\CourseMat\CourseMat\obj\Debug\CourseMat.pdb
