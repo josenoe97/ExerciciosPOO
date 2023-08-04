@@ -1,0 +1,8 @@
+H:\VisualStudio\Udemy\VoteCount\VoteCount\bin\Debug\VoteCount.exe.config
+H:\VisualStudio\Udemy\VoteCount\VoteCount\bin\Debug\VoteCount.exe
+H:\VisualStudio\Udemy\VoteCount\VoteCount\bin\Debug\VoteCount.pdb
+H:\VisualStudio\Udemy\VoteCount\VoteCount\obj\Debug\VoteCount.csproj.AssemblyReference.cache
+H:\VisualStudio\Udemy\VoteCount\VoteCount\obj\Debug\VoteCount.csproj.SuggestedBindingRedirects.cache
+H:\VisualStudio\Udemy\VoteCount\VoteCount\obj\Debug\VoteCount.csproj.CoreCompileInputs.cache
+H:\VisualStudio\Udemy\VoteCount\VoteCount\obj\Debug\VoteCount.exe
+H:\VisualStudio\Udemy\VoteCount\VoteCount\obj\Debug\VoteCount.pdb
