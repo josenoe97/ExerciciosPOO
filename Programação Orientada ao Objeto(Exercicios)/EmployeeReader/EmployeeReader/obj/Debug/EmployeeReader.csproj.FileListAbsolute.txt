@@ -1,0 +1,8 @@
+H:\VisualStudio\Udemy\EmployeeReader\EmployeeReader\bin\Debug\EmployeeReader.exe.config
+H:\VisualStudio\Udemy\EmployeeReader\EmployeeReader\bin\Debug\EmployeeReader.exe
+H:\VisualStudio\Udemy\EmployeeReader\EmployeeReader\bin\Debug\EmployeeReader.pdb
+H:\VisualStudio\Udemy\EmployeeReader\EmployeeReader\obj\Debug\EmployeeReader.csproj.AssemblyReference.cache
+H:\VisualStudio\Udemy\EmployeeReader\EmployeeReader\obj\Debug\EmployeeReader.csproj.SuggestedBindingRedirects.cache
+H:\VisualStudio\Udemy\EmployeeReader\EmployeeReader\obj\Debug\EmployeeReader.csproj.CoreCompileInputs.cache
+H:\VisualStudio\Udemy\EmployeeReader\EmployeeReader\obj\Debug\EmployeeReader.exe
+H:\VisualStudio\Udemy\EmployeeReader\EmployeeReader\obj\Debug\EmployeeReader.pdb
